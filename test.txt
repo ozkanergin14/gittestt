@@ -1,1 +1,2 @@
 Test txt ilk satır
+main 2. satır
